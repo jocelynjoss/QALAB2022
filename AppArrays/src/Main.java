@@ -21,7 +21,8 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        String user = config[XPROD][CUSER];
+        //Editado por Jocelyn Reyes Rojas
 
         //CLAVE: DESARROLLO
 
